@@ -8,7 +8,7 @@
 
 ---
 
-## 🔷 📌 GitHub Description
+## 🔷 📌 Description
 
 A **professional-grade Power BI dashboard** designed to analyze financial performance, operational efficiency, and data quality. This project demonstrates advanced data analytics techniques including trend analysis, correlation modeling, KPI monitoring, and data quality assessment—structured across multiple business-focused dashboards.
 
@@ -110,19 +110,19 @@ Focuses on reliability and completeness of data.
 
 ### 🔹 Executive Dashboard
 
-![Executive Dashboard](./screenshots/executive.png)
+![Executive Dashboard]([./screenshots/executive.png](https://github.com/yogeshkale09/Financial-Performance-Data-Analytics-Dashboard/blob/b4843090a98b8a1f4a9a42ae20f758f906ecc2be/EXECUTIVE%20OVERVIEW.png))
 
 ### 🔹 Financial Analysis Dashboard
 
-![Financial Dashboard](./screenshots/financial.png)
+![Financial Dashboard]([./screenshots/financial.png](https://github.com/yogeshkale09/Financial-Performance-Data-Analytics-Dashboard/blob/b4843090a98b8a1f4a9a42ae20f758f906ecc2be/FINANCIAL%20ANALYSIS.png))
 
 ### 🔹 Operations Dashboard
 
-![Operations Dashboard](./screenshots/operations.png)
+![Operations Dashboard]([./screenshots/operations.png](https://github.com/yogeshkale09/Financial-Performance-Data-Analytics-Dashboard/blob/b4843090a98b8a1f4a9a42ae20f758f906ecc2be/OPERATIONS.png))
 
 ### 🔹 Data Quality Dashboard
 
-![Data Quality Dashboard](./screenshots/data_quality.png)
+[![Data Quality Dashboard](./screenshots/data_quality.png)](https://github.com/yogeshkale09/Financial-Performance-Data-Analytics-Dashboard/blob/b4843090a98b8a1f4a9a42ae20f758f906ecc2be/DATA%20QUALITY.png)
 
 ---
 
@@ -216,10 +216,3 @@ This project demonstrates the ability to:
 
 ---
 
-## ⭐ Author
-
-**Yogesh Kale**
-
----
-
-> This project reflects real-world analytical thinking, focusing on business impact, performance monitoring, and data-driven decision-making.
