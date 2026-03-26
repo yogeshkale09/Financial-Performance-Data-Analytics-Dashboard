@@ -110,19 +110,19 @@ Focuses on reliability and completeness of data.
 
 ### 🔹 Executive Dashboard
 
-![Executive Dashboard]([./screenshots/executive.png](https://github.com/yogeshkale09/Financial-Performance-Data-Analytics-Dashboard/blob/b4843090a98b8a1f4a9a42ae20f758f906ecc2be/EXECUTIVE%20OVERVIEW.png))
+![Executive Dashboard](https://github.com/yogeshkale09/Financial-Performance-Data-Analytics-Dashboard/blob/b4843090a98b8a1f4a9a42ae20f758f906ecc2be/EXECUTIVE%20OVERVIEW.png)
 
 ### 🔹 Financial Analysis Dashboard
 
-![Financial Dashboard]([./screenshots/financial.png](https://github.com/yogeshkale09/Financial-Performance-Data-Analytics-Dashboard/blob/b4843090a98b8a1f4a9a42ae20f758f906ecc2be/FINANCIAL%20ANALYSIS.png))
+![Financial Dashboard](https://github.com/yogeshkale09/Financial-Performance-Data-Analytics-Dashboard/blob/b4843090a98b8a1f4a9a42ae20f758f906ecc2be/FINANCIAL%20ANALYSIS.png)
 
 ### 🔹 Operations Dashboard
 
-![Operations Dashboard]([./screenshots/operations.png](https://github.com/yogeshkale09/Financial-Performance-Data-Analytics-Dashboard/blob/b4843090a98b8a1f4a9a42ae20f758f906ecc2be/OPERATIONS.png))
+![Operations Dashboard](https://github.com/yogeshkale09/Financial-Performance-Data-Analytics-Dashboard/blob/b4843090a98b8a1f4a9a42ae20f758f906ecc2be/OPERATIONS.png)
 
 ### 🔹 Data Quality Dashboard
 
-[![Data Quality Dashboard](./screenshots/data_quality.png)](https://github.com/yogeshkale09/Financial-Performance-Data-Analytics-Dashboard/blob/b4843090a98b8a1f4a9a42ae20f758f906ecc2be/DATA%20QUALITY.png)
+[![Data Quality Dashboard](https://github.com/yogeshkale09/Financial-Performance-Data-Analytics-Dashboard/blob/b4843090a98b8a1f4a9a42ae20f758f906ecc2be/DATA%20QUALITY.png)
 
 ---
 
