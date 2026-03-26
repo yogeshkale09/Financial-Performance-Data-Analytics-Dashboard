@@ -106,7 +106,6 @@ Focuses on reliability and completeness of data.
 
 ## 🖼️ Dashboard Screenshots
 
-> *(Add your Power BI screenshots here after exporting images)*
 
 ### 🔹 Executive Dashboard
 
